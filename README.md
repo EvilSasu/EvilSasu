@@ -1,22 +1,49 @@
 
 <h1 align="center"> Hi, I'm Daniel 👋 </h1>
 
-<p align="center">
+<h2 align="center">
   <strong>Passionate Game Developer from Poland and a graduate of the Kielce University of Technology with a Master of Engineering degree. Currently seeking an entry-level opportunity to develop my skills and gain valuable experience.</strong>
-</p>
+</h2>
 
 <p align="center">
-  <img src="https://www.dropbox.com/scl/fi/z305m0wj7lk7yd61qe76p/endMainMenu.png?rlkey=qxg9bdhd8nxeqfe9m6safti0l&raw=1" alt="Image Alt" width="50%">
+  <img src="https://www.dropbox.com/scl/fi/z305m0wj7lk7yd61qe76p/endMainMenu.png?rlkey=qxg9bdhd8nxeqfe9m6safti0l&raw=1" alt="Image Alt" width="70%">
 </p>
+
+<table align="center">
+  <tr>
+    <!-- Kolumna z listą punktowaną -->
+    <td style="padding-right: 0px; vertical-align: top;">
+      <ul>
+        <h3>🔭 I’m currently working on Dungeon</h3>
+        <h3>🌱 I’m currently learning Unity, C#, .Net</h3>
+        <h3>👨‍💻 All of my projects are available at <a href="https://github.com/EvilSasu">https://github.com/EvilSasu</a></h3>
+        <h3>📫 How to reach me: daniel.ostrowski2703@gmail.com</h3>
+      </ul>
+    </td>
+    <!-- Kolumna z obrazkiem -->
+    <td>
+      <img src="https://www.dropbox.com/scl/fi/uzoadbajtumcawfoyn804/temporary.png?rlkey=94rbywg1sdmi5egao1hcei3m0&st=y0082jc1&raw=1" alt="Image Alt" width="200">
+    </td>
+  </tr>
+</table>
 
 <!-- Socials -->
 <h2 align="center">🌐 Socials:</h2>
-<p align="center">
-    <a href="https://linkedin.com/in/daniel-ostrowski-sasu">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-      <img align="center" src="https://github.com/Nagzlos123/Nagzlos123/raw/main/Icons/codewars.png" alt="codewars" height="60" width="60" style="max-width: 100%;">
-    </a>
-</p>
+
+<table align="center">
+  <tr>
+  <td>
+       <a href="https://linkedin.com/in/daniel-ostrowski-sasu">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" />
+       </a>
+  </td>
+  <td>
+    <a href="https://www.codewars.com/users/EvilSasu">
+    <img  src="https://github.com/Nagzlos123/Nagzlos123/raw/main/Icons/codewars.png" alt="codewars" height="70" width="70" style="max-width: 100%;">
+      </a>
+  </td>
+  </tr>
+</table>
 
 <!-- Tech Stack -->
 <h1 align="center">💻 Tech Stack:</h1>
