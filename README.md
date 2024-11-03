@@ -27,6 +27,23 @@
   </tr>
 </table>
 
+<h2 align="center">✨ Projects:</h2>
+<p align="center">
+  <a href="https://github.com/EvilSasu/EndlessFighter" target="_blank">
+    <img src="https://www.dropbox.com/scl/fi/je3kchst2vnlwe8mf06qf/EndlessFighter.gif?rlkey=ka4uutcpkn658xpx04vsdsomc&st=8s2ur2bl&raw=1" alt="Project GIF" width="400">
+  </a>
+  <a href="https://github.com/EvilSasu/EndlessFighter" target="_blank">
+    <img src="https://www.dropbox.com/scl/fi/je3kchst2vnlwe8mf06qf/EndlessFighter.gif?rlkey=ka4uutcpkn658xpx04vsdsomc&st=8s2ur2bl&raw=1" alt="Project GIF" width="400">
+  </a>
+  <a href="https://github.com/EvilSasu/EndlessFighter" target="_blank">
+    <img src="https://www.dropbox.com/scl/fi/je3kchst2vnlwe8mf06qf/EndlessFighter.gif?rlkey=ka4uutcpkn658xpx04vsdsomc&st=8s2ur2bl&raw=1" alt="Project GIF" width="400">
+  </a>
+  <a href="https://github.com/EvilSasu/EndlessFighter" target="_blank">
+    <img src="https://www.dropbox.com/scl/fi/je3kchst2vnlwe8mf06qf/EndlessFighter.gif?rlkey=ka4uutcpkn658xpx04vsdsomc&st=8s2ur2bl&raw=1" alt="Project GIF" width="400">
+  </a>
+</p>
+
+
 <!-- Socials -->
 <h2 align="center">🌐 Socials:</h2>
 
