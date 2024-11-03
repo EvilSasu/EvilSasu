@@ -32,11 +32,11 @@
   <a href="https://github.com/EvilSasu/EndlessFighter" target="_blank">
     <img src="https://www.dropbox.com/scl/fi/je3kchst2vnlwe8mf06qf/EndlessFighter.gif?rlkey=ka4uutcpkn658xpx04vsdsomc&st=8s2ur2bl&raw=1" alt="Project GIF" width="400">
   </a>
-  <a href="https://github.com/EvilSasu/EndlessFighter" target="_blank">
-    <img src="https://www.dropbox.com/scl/fi/je3kchst2vnlwe8mf06qf/EndlessFighter.gif?rlkey=ka4uutcpkn658xpx04vsdsomc&st=8s2ur2bl&raw=1" alt="Project GIF" width="400">
+  <a href="https://github.com/EvilSasu/StudentSimulator" target="_blank">
+    <img src="https://www.dropbox.com/scl/fi/dt9woaea24oj7xm3vij1l/StudentSim2.gif?rlkey=gt6eloesey6en0k9b5jem8zpd&st=ptg39qml&raw=1" alt="Project GIF" width="400">
   </a>
-  <a href="https://github.com/EvilSasu/EndlessFighter" target="_blank">
-    <img src="https://www.dropbox.com/scl/fi/je3kchst2vnlwe8mf06qf/EndlessFighter.gif?rlkey=ka4uutcpkn658xpx04vsdsomc&st=8s2ur2bl&raw=1" alt="Project GIF" width="400">
+  <a href="https://github.com/EvilSasu/Billard2D" target="_blank">
+    <img src="https://www.dropbox.com/scl/fi/uilkyvzrfda9onw6vdux9/Billard.gif?rlkey=6rgiwv1s69o5ev2m1pwr996qo&st=0g531r7v&raw=1" alt="Project GIF" width="400">
   </a>
   <a href="https://github.com/EvilSasu/EndlessFighter" target="_blank">
     <img src="https://www.dropbox.com/scl/fi/je3kchst2vnlwe8mf06qf/EndlessFighter.gif?rlkey=ka4uutcpkn658xpx04vsdsomc&st=8s2ur2bl&raw=1" alt="Project GIF" width="400">
