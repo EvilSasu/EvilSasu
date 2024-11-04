@@ -47,6 +47,9 @@
   <a href="https://github.com/EvilSasu/OpenGLPlanets" target="_blank">
     <img src="https://www.dropbox.com/scl/fi/nyh0s9zcr3tqee2gfu1xz/PlanetsOpenGL.gif?rlkey=ymiqywnly07bcpx58jdog2umu&st=ciabopda&raw=1" alt="Project GIF" width="400">
   </a>
+  <a href="https://github.com/EvilSasu/PlagueSimulator2D" target="_blank">
+    <img src="https://www.dropbox.com/scl/fi/q6jh98psrhdctvakql9y7/PlagueSim.gif?rlkey=oo8fj0su1dkw4feev2hjs1l1g&st=djgmjt1y&raw=1" alt="Project GIF" width="400">
+  </a>
 </p>
 
 
