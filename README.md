@@ -44,6 +44,9 @@
   <a href="https://github.com/EvilSasu/JavaOpenGL" target="_blank">
     <img src="https://www.dropbox.com/scl/fi/35w4ga40dkt8hm52ikea5/OpenGLJava.gif?rlkey=bscdhjtxeuf7183rrous92jq5&st=45hr1qrr&raw=1" alt="Project GIF" width="400">
   </a>
+  <a href="https://github.com/EvilSasu/OpenGLPlanets" target="_blank">
+    <img src="https://www.dropbox.com/scl/fi/nyh0s9zcr3tqee2gfu1xz/PlanetsOpenGL.gif?rlkey=ymiqywnly07bcpx58jdog2umu&st=ciabopda&raw=1" alt="Project GIF" width="400">
+  </a>
 </p>
 
 
