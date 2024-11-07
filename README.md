@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Daniel 👋 </h1>
 
 <h2 align="center">
-  <strong>Passionate Game Developer from Poland and a graduate of the Kielce University of Technology with a Master of Engineering degree. Currently seeking an entry-level opportunity to develop my skills and gain valuable experience.</strong>
+  <strong>Passionate Game Developer from Poland and a graduate of the Kielce University of Technology with a Master of Engineering degree. Currently seeking an opportunity to further develop my skills and gain valuable experience.</strong>
 </h2>
 
 <p align="center">
