@@ -88,7 +88,8 @@
 <p align="center">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=EvilSasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvilSasu&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilSasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilSasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" /> 
+    <img src="https://www.dropbox.com/scl/fi/9v6f2x5uez41t2zyd4pnw/stats.JPG?rlkey=9dh32geb9lzj37z5u6nqamf6i&st=poyvqra4&raw=1" alt="Top Langs" /> 
 </p>
 
 ---
