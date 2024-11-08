@@ -86,8 +86,9 @@
 <!-- GitHub Stats -->
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=EvilSasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvilSasu&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=EvilSasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvilSasu&theme=dark&hide_border=false" alt="GitHub Streak" /><br/> -->
+    <img src="https://github-readme-streak-stats-six-beta.vercel.app?user=EvilSasu&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
     <img src="https://github-readme-stats-git-master-daniels-projects-fe1edf15.vercel.app/api/top-langs/?username=EvilSasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" /> 
    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilSasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />  -->
 </p>
